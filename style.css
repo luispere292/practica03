@@ -1,0 +1,46 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;color: blue;
+    color: cyan;
+}
+
+
+h2
+{
+    background-color: blueviolet;
+    color: darkorange;
+}
+h4
+{
+    background-color: green;
+    color: yellow;
+}
+p 
+{
+    background-color: darkred;
+    color: forestgreen;
+}
+select
+{
+    background-color: darkred;
+    color: darksalmon;
+}
+a 
+{
+    background-color: darkviolet;
+    color: antiquewhite;
+}
+body 
+{ 
+    background-color: darkorange;
+    color: dodgerblue;
+}
+table 
+{
+    background-color: yellow;
+    color: white;
+}
+h4
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 
+    Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}   
